@@ -1,0 +1,13 @@
+#Tue Jul 16 16:37:35 PDT 2013
+eclipse.preferences.version=1
+endpointApiVersion=28.0
+endpointEnvironment=Production/Developer Edition
+endpointServer=www.salesforce.com
+httpsProtocol=true
+ideVersion=28.0
+keependpoint=false
+metadataFormatVersion=28.0
+namespacePrefix=
+packageName=unpackaged
+readTimeout=400
+username=omharik@gmail.com

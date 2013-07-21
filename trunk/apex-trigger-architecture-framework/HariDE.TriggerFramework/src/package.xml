@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>AccountAfterInsertTriggerHandler</members>
+        <members>AccountAfterUpdateTriggerHandler</members>
+        <members>AccountBeforeUpdateTriggerHandler</members>
+        <members>AccountTriggerDispatcher</members>
+        <members>ITriggerHandler</members>
+        <members>TriggerDispatcherBase</members>
+        <members>TriggerException</members>
+        <members>TriggerFactory</members>
+        <members>TriggerFrameworkTest</members>
+        <members>TriggerHandlerBase</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>AccountTrigger</members>
+        <name>ApexTrigger</name>
+    </types>
+    <version>28.0</version>
+</Package>
