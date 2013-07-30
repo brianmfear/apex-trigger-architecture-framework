@@ -4,8 +4,10 @@
         <members>AccountAfterInsertTriggerHandler</members>
         <members>AccountAfterUpdateTriggerHandler</members>
         <members>AccountBeforeUpdateTriggerHandler</members>
+        <members>AccountHelper</members>
         <members>AccountTriggerDispatcher</members>
         <members>ITriggerHandler</members>
+        <members>OpportunityHelper</members>
         <members>TriggerDispatcherBase</members>
         <members>TriggerException</members>
         <members>TriggerFactory</members>

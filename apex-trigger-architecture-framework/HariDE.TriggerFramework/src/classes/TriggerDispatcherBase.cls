@@ -115,6 +115,7 @@ public virtual class TriggerDispatcherBase implements ITriggerDispatcher {
     		if(tEvent == TriggerParameters.TriggerEvent.afterUnDelete)
     			afterUndeleteHandler = handlerInstance;
     		handlerInstance.mainEntry(tp);
+    		handlerInstance.updateObjects();
     	}
     	else {
     		if(tEvent == TriggerParameters.TriggerEvent.beforeInsert)
